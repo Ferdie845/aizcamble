@@ -1,0 +1,15 @@
+
+1. Put the project folder to htdocs which is located under the folder of xammp on your computer.
+
+2. Open your xammp and start apache and mysql
+
+3. Go to you localhost phpmyadmin and then create a database and name it "ecommerce"
+
+4. Import the database file named "ecommerce" provided which is located in this folder.
+
+5. Serve your php project select login.php and then serve project after that right click again
+then select PHP SERVER Open file in browser.
+
+
+Tom Harley
+-Dev
